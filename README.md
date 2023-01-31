@@ -98,7 +98,7 @@ Website: https://zens.domains
 
 ZENS token supply is 210,000,000 ZENS tokens. The distribution plan of ZENS tokens is as follows:
 
-* Private placement: 20% - 42,000,000 - Expected $220,000
+* Private placement: 20% - 42,000,000 - Expected $220,000，Exceeding expectations will adopt an equal sharing mechanism
 
 * ZENS development team: 15% - 31,500,000 (262,500 ZENS will be unlocked every month from the start of ZENS on the HorizenEON EVM main network in the second year, and it is expected to be fully unlocked in 10 years)
 
