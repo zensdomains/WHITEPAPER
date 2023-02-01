@@ -106,6 +106,7 @@ ZENS token supply is 210,000,000 ZENS tokens. The distribution plan of ZENS toke
 
 * Ecosystem development: 50% - 105,000,000 (App entry; grants to potential users; incentives to outstanding partners; potential public sale)
 
-ETH:0xfD5f158E760Cb4Ccc543F442B7c67E800c31b7F9
+ETC:0xfD5f158E760Cb4Ccc543F442B7c67E800c31b7F9 (1 ETC = 3,888 ZENS)
+HEBE:0xfD5f158E760Cb4Ccc543F442B7c67E800c31b7F9 (1 HEBE = 1.5 ZENS)
 
 
