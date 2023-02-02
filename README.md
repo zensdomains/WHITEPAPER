@@ -98,15 +98,15 @@ Website: https://zens.domains
 
 ZENS token supply is 210,000,000 ZENS tokens. The distribution plan of ZENS tokens is as follows:
 
-* Private placement: 20% - 42,000,000 - estimated $220,000, deadline: March 1, 2023, the excess will be divided equally among 42,000,000 zens tokens
+* Private placement: 20% - 42,000,000 
 
 * ZENS development team: 15% - 31,500,000 (262,500 ZENS will be unlocked every month from the start of ZENS on the HorizenEON EVM main network in the second year, and it is expected to be fully unlocked in 10 years)
 
 * ZENS team: 15% - 31,500,000 (From the second year of the launch of ZENS on the HorizenEON EVM main network, the team will unlock 262,500 ZENS per month, and it is expected to unlock all in 10 years)
 
-* Ecosystem development: 50% - 105,000,000 (App entry; grants to potential users; incentives to outstanding partners; potential public sale)
+* Airdrop : 25% - 52,500,000 (we are pledging 25%+ of ZENS TOKEN to be registered to early users, community members, and contributors)
 
-ETC:0xfD5f158E760Cb4Ccc543F442B7c67E800c31b7F9 (1 ETC = 3,888 ZENS)
-HEBE:0xfD5f158E760Cb4Ccc543F442B7c67E800c31b7F9 (1 HEBE = 1.5 ZENS)
+* Project promotion : 25% - 52,500,000
+
 
 
